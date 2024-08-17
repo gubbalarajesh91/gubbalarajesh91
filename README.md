@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gubbalarajesh91
-- 👀 I’m interested in De
+- 👀 I’m interested in DevOps and Cloud-Architecture
 - 🌱 I’m currently working as **Cloud & DevOps Engineer**.
 - 📫 How to reach me gubbala.rajesh91@gmail.com
 
